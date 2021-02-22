@@ -1,0 +1,195 @@
+{
+  "signin": [
+    {
+      "id": "dev@gmail.com",
+      "password": "123dev"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "email": "matilde.a.s.homem@gmail.com",
+      "name": "matilde",
+      "phoneNumber": "123456",
+      "subject": "mensagem"
+    }
+  ],
+  "musicians": [
+    {
+      "id": 1,
+      "name": "Lionesse",
+      "photo": "/img/musicians1EUA.jpg",
+      "bio": "Lionesse é uma artista...bio",
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com",
+      "facebook": "https://facebook.com",
+      "locationLat": "40.78348090340676",
+      "locationLng": "-73.96717372537665",
+      "location": "New York"
+    },
+    {
+      "id": 2,
+      "name": "Greg Heaven",
+      "photo": "/img/musicians2Australia.jpg",
+      "bio": "Greg é um artista...bio",
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com",
+      "facebook": "https://facebook.com",
+      "locationLat": "-24.52608344052468",
+      "locationLng": "133.7236552334922",
+      "location": "Sydney"
+    },
+    {
+      "id": 3,
+      "name": "Carina Funana",
+      "photo": "/img/musicians3Mocambique.jpg",
+      "bio": "Carina é uma artista...bio",
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com",
+      "facebook": "https://facebook.com",
+      "locationLat": "-17.123694809035513",
+      "locationLng": "35.68032305263474",
+      "location": "Mozambique"
+    },
+    {
+      "id": 4,
+      "name": "Joaquim Zias",
+      "photo": "/img/musicians4Singapure.jpg",
+      "bio": "Joaquim é um artista...bio",
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com",
+      "facebook": "https://facebook.com",
+      "locationLat": "1.3533523092655242",
+      "locationLng": "103.8604228968331",
+      "location": "Singapore"
+    },
+    {
+      "id": 5,
+      "name": "La Chica",
+      "photo": "/img/musicians5Cuba.jpg",
+      "bio": "La Chica é uma artista...bio",
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com",
+      "facebook": "https://facebook.com",
+      "locationLat": "23.111897841984504",
+      "locationLng": "-82.36666070921044",
+      "location": "Havana"
+    },
+    {
+      "id": 6,
+      "name": "Pair of Shoes",
+      "photo": "/img/musicians6Germany.jpg",
+      "bio": "Pair of Shoes são artistas...bio",
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com",
+      "facebook": "https://facebook.com",
+      "locationLat": "48.305252787424024",
+      "locationLng": "11.34968745933816",
+      "location": "Munich"
+    }
+  ],
+  "participants": [
+    {
+      "id": "matilde.a.s.homem@gmail.com",
+      "nameParticipant": "matilde"
+    },
+    {
+      "id": "masdad@gmail.com",
+      "nameParticipant": "otilia"
+    },
+    {
+      "id": "marisa22@hotmail.com",
+      "nameParticipant": "marisa silva"
+    },
+    {
+      "id": "kikamieiro@gmail.com",
+      "nameParticipant": "kikamieiro"
+    },
+    {
+      "id": "jorgefreitasfaria@hotmail.com",
+      "nameParticipant": "Jorge "
+    },
+    {
+      "id": "joaoflavio.ufmg@gmail.com",
+      "nameParticipant": "joao"
+    },
+    {
+      "id": "joaodalaia@live.pt",
+      "nameParticipant": "joao"
+    },
+    {
+      "id": "joao.manuel@msbnn.com",
+      "nameParticipant": "joaomanuel"
+    },
+    {
+      "id": "jd@gmail.com",
+      "nameParticipant": "josé duarte"
+    },
+    {
+      "id": "draycen.nolberto@gmail.org",
+      "nameParticipant": "draycen"
+    },
+    {
+      "id": "dasilva.marisa@hotmail.com",
+      "nameParticipant": "marisa santos"
+    },
+    {
+      "id": "dasilva.marisa12@gmail.com",
+      "nameParticipant": "Marisa silva"
+    },
+    {
+      "id": "dasi@hotmail.com",
+      "nameParticipant": "ana silva"
+    },
+    {
+      "id": "danielafortes@bb.com",
+      "nameParticipant": "danielalopes"
+    },
+    {
+      "id": "dailva.marisa@hotmail.com",
+      "nameParticipant": "marisa silva"
+    },
+    {
+      "id": "carlos.parente@gmail.pt",
+      "nameParticipant": "Carlos Parente"
+    },
+    {
+      "id": "andrenicolau@gmail.com",
+      "nameParticipant": "AndreNicolau"
+    },
+    {
+      "id": "amorasd@gmail.com",
+      "nameParticipant": "miguel"
+    }
+  ],
+  "sponsors": [
+    {
+      "name": "LG",
+      "category": "Video",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/LG_logo_(2015).svg",
+      "link": "https://www.lg.com",
+      "id": 4
+    },
+    {
+      "name": "Peninsular",
+      "category": "Food or Beverages",
+      "logo": "https://www.mendesgoncalves.pt/mg/sites/default/files/peninsular_0.png",
+      "link": "https://www.mendesgoncalves.pt/marcas/peninsular",
+      "id": 3
+    },
+    {
+      "id": 2,
+      "name": "JBL",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/JBL_logo.svg",
+      "category": "Sound",
+      "link": "https://www.jbl.com/"
+    },
+    {
+      "name": "Super Bock",
+      "category": "Food or Beverages",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Super_bock.png",
+      "link": "http://superbock.pt/",
+      "id": 1
+    }
+  ]
+}

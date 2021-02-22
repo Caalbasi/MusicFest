@@ -1,0 +1,29 @@
+footer{
+    padding: 25px 0;
+    text-align: center;
+}
+footer span.copyright{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 90%;
+    line-height: 40px;    
+}
+footer ul.social-buttons{
+    margin-bottom: 0;
+}
+footer ul.social-buttons li a {
+    font-size: 20px;
+    line-height: 40px;
+    display: block;
+    width: 40px;
+    height: 40px;  
+    color: white;
+    border-radius: 100%;
+    outline: none;
+    background-color: #212529;
+}
+footer ul.social-buttons li a:active, footer ul.social-buttons li a:hover {
+    background-color: #3677b1;
+}
+.viewMusician:hover{
+    cursor:pointer;
+}
